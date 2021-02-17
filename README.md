@@ -1,1 +1,1 @@
-# pg_master
+# Paulami's Academic Projects
