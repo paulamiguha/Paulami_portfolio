@@ -2,7 +2,7 @@
 
 ## Academic Projects
 
-### 1. [Analysis of access to healthcare among seniors](https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/Research%20Methods)
+### [Analysis of access to healthcare among seniors](https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/Research%20Methods)
 
 **Abstract**
   
