@@ -9,4 +9,4 @@ Utilization of health care services varies across the seniors who are aged 65 an
 
 The main findings of the paper show that seniors who are enrolled in Medicare Advantage plans have trouble finding a doctor. Elderly people who are residing in west region also have problem to get medical provider. Seniors who are male have less problem to access health services. Thus, the implication of policymakers is to ensure better access to health services among seniors
 
-![](https://github.com/paulamiguha/pg_master/blob/main/images/readme.md)
+![](https://github.com/paulamiguha/pg_master/blob/main/images/NHIS1)
