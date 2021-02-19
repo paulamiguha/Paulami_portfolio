@@ -51,7 +51,11 @@ The aim of this project was to forecast the following metrics :-
 
 We used forecasting techniques like ARIMA, Facebook Prophet model etc. to identify the metrics mentioned above. 
   
-We identified 
+We identified in later periods the sales shows declining trend.
+
+Bed bath and Table,health ad beauty and sports and leisure are the three best popular categories.
+
+Finally, we determined the categories with the highest median growth rate. These categories were watches and gifts (20.5%), luggage and accessories (19%), pet shop (15%), food (12%) and air conditioning (10%). 
 
 
 ### Project 5: [An Analysis of Sales of Olist (Brazilian e-commerce website)]
