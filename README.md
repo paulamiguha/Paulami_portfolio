@@ -24,3 +24,19 @@ The main findings of the project were that total sales, total shop reviews, numb
 **Exploratory Data Analysis**
   
   ![](https://github.com/paulamiguha/pg_master/blob/main/images/Tools.png)
+
+
+### Project 3: [Machine learning Contest with ADS-B Data] (https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/MachineLearning)
+  
+  
+The goal of this contest is to impute the missing values for location and speed in the ADS–B flight data.
+Background. ADS–B data can be automatically collected from the aircraft’s navigation system (https: //en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast). It provides the basic information of a flight, including the location (latitude, longitude, & altitude) and speed (ground speed & vertical speed). However, ADS-B data is not recorded by every second. In most ADS-B data sets, every two consecutive records can have a time gap of 15-30 seconds. It is a challenge to find out what happens during the time gap. Therefore, the task was to predict the location and speed by second for the ADS-B data.
+
+The main learning of this project was that Machine learning methods were less accurate than interpolation methods in predicting the missing value variables.
+
+**Exploratory Data Analysis**
+  
+  ![](https://github.com/paulamiguha/pg_master/blob/main/images/MLP_Imputation.png)
+  
+
+  
