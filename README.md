@@ -26,7 +26,7 @@ The main findings of the project were that total sales, total shop reviews, numb
   ![](https://github.com/paulamiguha/pg_master/blob/main/images/Tools.png)
 
 
-### Project 3: [Machine learning Contest with ADS-B Data] (https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/MachineLearning)
+### Project 3: [Machine learning Contest with ADS-B Data](https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/MachineLearning)
   
   
 The goal of this contest is to impute the missing values for location and speed in the ADS–B flight data.
