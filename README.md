@@ -24,7 +24,8 @@ The main findings of the project were that total sales, total shop reviews, numb
 **Exploratory Data Analysis**
   
   ![](https://github.com/paulamiguha/pg_master/blob/main/images/Tools.png)
-
+  
+  
 
 ### Project 3: [Machine learning Contest with ADS-B Data](https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/MachineLearning)
   
@@ -40,3 +41,21 @@ The main learning of this project was that Machine learning methods were less ac
   
 
   
+### Project 4: [An Analysis of Sales of Olist (Brazilian e-commerce website)](https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/BusinessForecasting/Olist%20Data%20Sales%20Analysis)
+  
+  
+The aim of this project was to forecast the following metrics :-
+1. Forecast growth of overall daily sales over the next three months.
+2. Future growth  forecast for the three best-selling categories in the dataset 
+3. Growth rate of the fastest growing category 
+
+We used forecasting techniques like ARIMA, Facebook Prophet model etc. to identify the metrics mentioned above. 
+  
+We identified 
+
+
+### Project 5: [An Analysis of Sales of Olist (Brazilian e-commerce website)]
+
+
+
+
