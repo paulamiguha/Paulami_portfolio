@@ -12,7 +12,7 @@ The main findings of the paper show that seniors who are enrolled in Medicare Ad
   
 ![](https://github.com/paulamiguha/pg_master/blob/main/images/NHIS_EDA.png)
 
-### Project 2: [An analysis of sellers of vintage music instruments on ETSY](https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/Tools%20for%20Data%20Analysis)
+### Project 2: [An analysis of sellers of vintage music instruments on ETSY](https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/Tools%20for%20Data%20Analysis)  
  
     
 The aim of this project is to provide buyers of vintage musical instruments, who are new to the Etsy website, a way to identify reliable sellers on the global marketplace. A seller’s popularity could be evaluated on the basis of the number of admirers (marked favorites) they have on Etsy. 
