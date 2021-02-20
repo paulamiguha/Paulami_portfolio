@@ -57,6 +57,11 @@ Bed bath and Table,health ad beauty and sports and leisure are the three best po
 
 Finally, we determined the categories with the highest median growth rate. These categories were watches and gifts (20.5%), luggage and accessories (19%), pet shop (15%), food (12%) and air conditioning (10%). 
 
+**Exploratory Data Analysis**
+
+![](https://github.com/paulamiguha/Paulami_portfolio/blob/main/images/OLIST.png)
+
+
 
 ### Project 5: [Werner truck driver data analyis - who will quit in the next 30 days?](https://github.com/paulamiguha/Paulami_portfolio/tree/main/Academic_Projects/BusinessForecasting/Werner%20Driver%20Data%20Analysis)
   
@@ -65,6 +70,10 @@ The aim of this project was to forecast which drivers were most likely to quit i
 
 
 The main findings of this project were that factors like - long-haul  , rehires, student drivers and  males were most likely to quit in the next 30 days.
+
+
+
+
 
 
 
