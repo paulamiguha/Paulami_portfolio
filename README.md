@@ -10,7 +10,7 @@ The main findings of the paper show that seniors who are enrolled in Medicare Ad
 
 **Exploratory Data Analysis**
   
-![](https://github.com/paulamiguha/pg_master/blob/main/images/NHIS_EDA.png)
+![](./images/NHIS_EDA.png)
 
 ### Project 2: [An analysis of sellers of vintage music instruments on ETSY](https://github.com/paulamiguha/pg_master/tree/main/Academic_Projects/Tools%20for%20Data%20Analysis)  
  
@@ -23,7 +23,7 @@ The main findings of the project were that total sales, total shop reviews, numb
   
 **Exploratory Data Analysis**
   
-  ![](https://github.com/paulamiguha/pg_master/blob/main/images/Tools.png)
+  ![](./images/Tools.png)
   
   
 
@@ -37,7 +37,7 @@ The main learning of this project was that Machine learning methods were less ac
 
 **Exploratory Data Analysis**
   
-  ![](https://github.com/paulamiguha/pg_master/blob/main/images/MLP_Imputation.png)
+  ![](./images/MLP_Imputation.png)
   
 
   
@@ -59,7 +59,7 @@ Finally, we determined the categories with the highest median growth rate. These
 
 **Exploratory Data Analysis**
 
-![](https://github.com/paulamiguha/Paulami_portfolio/blob/main/images/OLIST.png)
+![](./images/OLIST.png)
 
 
 
